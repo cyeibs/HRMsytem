@@ -24,9 +24,9 @@ If you have any suggestion, feel free to open discussion or contact me directly 
     
 ```javascript
 PORT=4000
-DBUSERNAME="newuser"
-DBPASSWORD="tirann12"
-DBDATABASE="hrmsystem"
+DBUSERNAME="username"
+DBPASSWORD="password"
+DBDATABASE="dbname"
 DBDIALECT="postgres"
 DBPORT="8081"
 API_URL=http://localhost:4000
